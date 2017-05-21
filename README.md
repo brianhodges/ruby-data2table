@@ -1,4 +1,4 @@
-# Output Data Object(s)/Array(s) into Formatted Terminal Table (Ruby)
+# Output Data Object/Array into Formatted Terminal Table (Ruby)
 Just a project more for myself to refer back to when working on future Ruby projects. Outputs an array of objects into a formatted terminal table.
 
 # Setup
@@ -8,4 +8,4 @@ Just a project more for myself to refer back to when working on future Ruby proj
   cd ruby-data2table
   ruby ruby-data2table.rb
   ```
-*Data will instantly output formatted to Terminal* 
+*Data will instantly output formatted to Terminal/Console* 
