@@ -6,6 +6,6 @@ Just a project more for myself to refer back to when working on future Ruby proj
   ```
   git clone https://github.com/brianhodges/ruby-data2table
   cd ruby-data2table
-  ruby ruby-data2table.rb
+  ruby main.rb
   ```
 *Data will instantly output formatted to Terminal/Console* 

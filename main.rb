@@ -1,17 +1,16 @@
-x = 0
 tab = ' ' * 4
 countries = [
     {
         :name => 'USA',
-	:population => '350 million'
+		:population => '350 million'
     },
     {
         :name => 'China',
-	:population => '1.4 billion'
+		:population => '1.4 billion'
     },
     {
         :name => 'Russia',
-	:population => '145 million'
+		:population => '145 million'
     }
 ]
 
@@ -26,9 +25,9 @@ countries.each do |c|
 	puts tab + c.inspect
 end
 puts ']'
-
 puts
-# loop countries array of objects
+
+# loop countries - array of objects
 puts 'TABLE:'
 puts 'Countries | Population'
 puts '-' * 'Countries | Population'.size
